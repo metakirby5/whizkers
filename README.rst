@@ -1,7 +1,5 @@
-whizkers
-========
-
-|Codacy Badge|
+whizkers |Codacy Badge|
+=======================
 
 `mustache`_ + `YAML`_ based config templater.
 
@@ -17,7 +15,7 @@ A similar effect can be achieved by writing your own scripts, or by using
 some of the tools in the `Resources`_ section.
 
 Installation
-============
+------------
 
 ::
 
@@ -28,7 +26,7 @@ If you do the latter, you must install the dependencies in the
 following section manually.
 
 Dependencies
-============
+------------
 
 -  Python (2 or 3)
 
@@ -44,7 +42,7 @@ these should have been automatically installed.
 -  watchdog
 
 Autocomplete
-============
+------------
 
 ::
 
@@ -57,7 +55,7 @@ If you installed via pip, you may need to run the following before autocompletio
    grep 'PYTHON_ARGCOMPLETE_OK' "$(which whizkers)" &>/dev/null || sudo sed -i "1a # PYTHON_ARGCOMPLETE_OK" "$(which whizkers)"
 
 Usage
-=====
+-----
 
 Check the `example`_ folder for some sample usage!
 
@@ -133,7 +131,7 @@ Check the `example`_ folder for some sample usage!
       --dry                 do a dry run
 
 Resources
-=========
+---------
 
 - `wz-utils`_: An excellent collection of utilities for whizkers centered
   around theming.
@@ -141,7 +139,7 @@ Resources
   themes.
 
 Thanks to
-=========
+---------
 
 - https://gist.github.com/coleifer/33484bff21c34644dae1
 - https://github.com/defunkt/pystache
