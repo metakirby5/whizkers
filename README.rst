@@ -69,7 +69,7 @@ Check the `example`_ folder for some sample usage!
     A pystache + YAML based config templater.
 
     Searches for an optional yaml file with a variable mapping in
-    ~/.config/whizkers/variables.yaml,
+    ~/.config/whizkers/defaults.yaml,
 
     an optional yaml file with an ignore scalar of regexes in (by default)
     ~/.config/whizkers/ignores.yaml,
