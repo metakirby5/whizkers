@@ -1,7 +1,9 @@
 whizkers |Codacy Badge|
 =======================
 
-**:warning: whizkers is deprecated! Please use `sanpai`_ instead. :warning:**
+**:warning: whizkers is deprecated! Please use**
+`sanpai`_ 
+**instead. :warning:**
 
 `mustache`_ + `YAML`_ based config templater.
 
