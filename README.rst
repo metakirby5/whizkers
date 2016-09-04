@@ -2,7 +2,7 @@ whizkers |Codacy Badge|
 =======================
 
 **:warning: whizkers is deprecated! Please use**
-`sanpai`_ 
+`zenbu`_ 
 **instead. :warning:**
 
 `mustache`_ + `YAML`_ based config templater.
@@ -156,7 +156,7 @@ Thanks to
 .. |Sample Usage| image:: https://u.teknik.io/u8Au4P.gif
    :target: https://u.teknik.io/lCAD1H.webm
    :alt: Some sample usage with my automatic desktop reload script.
-.. _sanpai: https://github.com/metakirby5/sanpai
+.. _zenbu: https://github.com/metakirby5/zenbu
 .. _mustache: https://mustache.github.io/
 .. _YAML: http://yaml.org/
 .. _wzk: https://github.com/metakirby5/bash-scripts/blob/master/wzk
